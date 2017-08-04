@@ -7,6 +7,14 @@
 <body bgcolor="#8E02F9">
 
 <div class="g-ytsubscribe" data-channelid="UC_CbMyo2WDwnzdAHpRiD6uQ" data-layout="full" data-count="default"></div>
+
+
+
+
+
+
+
+
 ##Rules:
 ##No Spamming
 ##No Links or Pics
