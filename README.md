@@ -7,4 +7,3 @@
 <body bgcolor="#8E02F9">
 
 <div class="g-ytsubscribe" data-channelid="UC_CbMyo2WDwnzdAHpRiD6uQ" data-layout="full" data-count="default"></div>
-<iframe width="450" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" src="https://chatroll.com/embed/chat/wolfies-chat?id=d3qgBBx8DaJ&platform=html"></iframe>
