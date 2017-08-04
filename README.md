@@ -6,3 +6,5 @@
   <img border="0" src="https://raw.githubusercontent.com/wolfiesblog/Home/master/PicsArt_08-03-10.27.52.png" alt="discordinvitelink" width="100" height="100">
 <body bgcolor="#8E02F9">
 
+<div class="g-ytsubscribe" data-channelid="UC_CbMyo2WDwnzdAHpRiD6uQ" data-layout="full" data-count="default"></div>
+
